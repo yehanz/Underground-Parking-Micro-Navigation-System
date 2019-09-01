@@ -42,6 +42,7 @@ When a user is about to entering an underground parking lots, there are 2 ways t
 1. __Using Wechat Shake__
 <div align="center"><img src="./media/wechatShake.gif" height="400"/></div>
 <div>Wechat provides an API that allow beacons to push specific messages to surrounding users, called WeChat shake. A user can get the link of the page pushed by beacons.</div>
+
 2. __Click on the marks in the outdoor navigation page__
 <div align="center"><img src="./media/clickOnMarks.gif" height="400"/></div>
 
