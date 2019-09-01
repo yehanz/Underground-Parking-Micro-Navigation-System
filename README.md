@@ -38,16 +38,16 @@ __Supplimentary introduction__
 When a user is about to entering an underground parking lots, there are 2 ways that he or she can get into the indoor navigation page:
 
 1. __Using Wechat Shake__
-<div align="center"><img src="./media/wechatShake.gif" width="60%" height="60%/></div>
+<div align="center"><img src="./media/wechatShake.gif" height="400"/></div>
 <div>Wechat provides an API that allow beacons to push specific messages to surrounding users, called WeChat shake. A user can get the link of the page pushed by beacons.</div>
 2. __Click on the marks in the outdoor navigation page__
-<div align="center"><img src="./media/clickOnMarks.gif" style="zoom:60%"/></div>
+<div align="center"><img src="./media/clickOnMarks.gif" height="400"/></div>
 
 #### Indoor Positioning and Routine Optimization demostration
 1. __indoor Postioning and Routine Optimization__
-<div align="center"><img src="./media/positioning.gif" width="60%" height="60%" /></div>
+<div align="center"><img src="./media/positioning.gif" height="400" /></div>
 2. __Routine Optimization__
-<div align="center"><img src="./media/routine Optimization.gif" style="zoom:60%"/></div>
+<div align="center"><img src="./media/routine Optimization.gif" height="400"/></div>
 
 Detailed description of my work here :
 
@@ -92,7 +92,7 @@ The programming language here is PHP.
 
 ### 2.3 Online parking fee inquery and Settlement
 
-<div align="center"><img src="./media/onlinefee.gif" style="zoom:60%"/></div>
+<div align="center"><img src="./media/onlinefee.gif" height="400"/></div>
 
 __User-friendly Interface Design__
 The License plate number in China involves 2 part : Name of province + 5 digits of numbers and letters. The former are characters hard to input since rarely do we use them in daily life. So I designed a user-friendly interface for user to input their license plate number with special keyboard includes all characters for those province and it will automatically switches to a normal keyboard at blocks intended to input the number and the letter.
