@@ -1,7 +1,7 @@
 # Underground-Parking-Micro-Navigation-System
 Demonstration on my personal work in this project supplemented with an overview of the whole project.
 
-## 1. Brief Overview on the whole project(用流程图的方式描述)
+## 1. Brief Overview on the whole project
 The project can be broken down into 3 functional modules from the perspect of a user:
 
 ### 1.1 Outdoor Navigation module
@@ -17,11 +17,12 @@ The page also provide the service of routine optimization. These 3 functionaliti
 ### 1.3 Parking fee online inquery and settlement
 A user can check the parking fee and make a payment online through another website.
 
+
 ## 2. Personal work demostration
 I was in charge of the front end deveopment and part of backend development (Wechat API configuration) alone. All pages displayed below are written by myself.
 
 ### 2.1 Outdoor Navigation system
-<div align="center"><img src="./media/outdoor.gif" style="zoom:60%"/></div>
+<div align="center"><img src="./media/outdoor.gif" height="400"/></div>
 
 An outdoor navigation page is set up using Gaode SKD (Gaode is the Chinese version of Google Map), through which users can :
 
@@ -37,15 +38,14 @@ __Supplimentary introduction__
 When a user is about to entering an underground parking lots, there are 2 ways that he or she can get into the indoor navigation page:
 
 1. __Using Wechat Shake__
-<div align="center"><img src="./media/wechatShake.gif" style="zoom:60%"/></div>
+<div align="center"><img src="./media/wechatShake.gif" width="60%" height="60%/></div>
 <div>Wechat provides an API that allow beacons to push specific messages to surrounding users, called WeChat shake. A user can get the link of the page pushed by beacons.</div>
 2. __Click on the marks in the outdoor navigation page__
 <div align="center"><img src="./media/clickOnMarks.gif" style="zoom:60%"/></div>
 
 #### Indoor Positioning and Routine Optimization demostration
 1. __indoor Postioning and Routine Optimization__
-<div align="center"><img src="./media/positioning.gif"/></div>
-
+<div align="center"><img src="./media/positioning.gif" width="60%" height="60%" /></div>
 2. __Routine Optimization__
 <div align="center"><img src="./media/routine Optimization.gif" style="zoom:60%"/></div>
 
