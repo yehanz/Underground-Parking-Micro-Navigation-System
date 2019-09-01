@@ -22,14 +22,16 @@ A user can check the parking fee and make a payment online through another websi
 I was in charge of the front end deveopment and part of backend development (Wechat API configuration) alone. All pages displayed below are written by myself.
 
 ### 2.1 Outdoor Navigation system
-<div align="center"><img src="./media/outdoor.gif" height="400"/></div>
+<div style="center"><img src="./media/outdoor.gif" height="400"/></div>
 
+<div style="center">
 An outdoor navigation page is set up using Gaode SKD (Gaode is the Chinese version of Google Map), through which users can :
-
+    
 1. Get an overview of the parking place nearby.
     - Number of free parking lots of those places are marked on the map and different colors are applied to those marks to indicate a general number of free lots in a parking place.(Green:more than 100+, Yellow:99-30, Red:less than 30). 
 2. Get service of outdoor naviagtion, just like any other commonly seen navigation system.
 3. Click on one of those marks to enter the indoor navigation page of the parking place.
+</div>
 
 __Supplimentary introduction__
 1. The state of a parking lot is monitored by carmeras deployed in parking places, and a backend server is set up by my group mates to fulfill the task of collecting data from parking lots. 
