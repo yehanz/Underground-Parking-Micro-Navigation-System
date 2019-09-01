@@ -22,7 +22,7 @@ A user can check the parking fee and make a payment online through another websi
 I was in charge of the front end deveopment and part of backend development (Wechat API configuration) alone. All pages displayed below are written by myself.
 
 ### 2.1 Outdoor Navigation system
-<div style="center"><img src="./media/outdoor.gif" height="400"/></div>
+<div align="center"><img src="./media/outdoor.gif" height="400"/></div>
 
 <div style="center">
 An outdoor navigation page is set up using Gaode SKD (Gaode is the Chinese version of Google Map), through which users can :
