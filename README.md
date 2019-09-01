@@ -46,6 +46,7 @@ When a user is about to entering an underground parking lots, there are 2 ways t
 #### Indoor Positioning and Routine Optimization demostration
 1. __indoor Postioning and Routine Optimization__
 <div align="center"><img src="./media/positioning.gif" height="400" /></div>
+
 2. __Routine Optimization__
 <div align="center"><img src="./media/routine Optimization.gif" height="400"/></div>
 
@@ -88,6 +89,9 @@ I setup a simple backend server to deal with issues of Wechat and storing my fro
 The programming language here is PHP.
 
 **Beacon Configuration and installment :**
+The following are how beacons installed and beacons that we used.
+<div align="center"><img src="./media/beaconInstall.png" height="250"/></div>
+<div align="center"><img src="./media/beacon.png" height="250"/></div>
 
 
 ### 2.3 Online parking fee inquery and Settlement
